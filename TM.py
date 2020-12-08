@@ -1,8 +1,4 @@
-## Trabalho em Grupo 2
-## SCC0205-Teoria da Computação e Linguagens Formais
-## Professor: João Luís G.Rosa
-
-## Grupo:
+## Author
 ## Guilherme Amaral Hiromoto 11218959
 ## Leandro Satoshi de Siqueira 10893103
 
